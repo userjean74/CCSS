@@ -1,1 +1,3 @@
 Hello This is just a test GIT
+
+Small change: Please be sure to update file on "master" branch
